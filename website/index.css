@@ -1,0 +1,74 @@
+.boxed {
+  border: 5px solid red;
+  background-color: rgb(236, 201, 103);
+}
+
+h1{
+    color: rgb(85, 48, 6);
+}
+
+h2{
+    color: rgb(85, 48, 6);
+}
+
+p{
+    color: rgba(206, 116, 14, 1);;
+}
+
+body{
+    background-color:rgb(187, 122, 25);
+}
+.header{
+    position:relative;
+    text-align:center;
+    
+}
+
+hr{
+    border-top: dashed rgb(85, 48, 6);
+    border-bottom: dashed rgb(85, 48, 6);
+}
+
+.box{
+  background-color: goldenrod;
+  color: brown;
+  padding-left:20px;
+  padding-right:20px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+
+.image{
+    background-color: #D3C098;
+}
+
+.textbox{
+    background-color:rgb(236, 201, 103);
+}
+
+.container{
+    position:relative;
+    size:50%;
+    text-align:center;
+
+}
+
+.portrait {
+  display: block;
+  width: 50%;
+  height: auto;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.caption{
+    text-align:center;
+    color:blue;
+}
+
+.border{
+    border:5px solid saddlebrown;
+    background-color: rgb(236, 201, 103) ;
+}
